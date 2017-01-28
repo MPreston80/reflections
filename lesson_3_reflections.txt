@@ -16,3 +16,9 @@ branches are edits to your program while still maintaining the original file.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Not sure......
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You would have to send emails constantly with files, and it could get really confusing the larger 
+your program got, and changes would be harder to track.  The easier part would be not having to know 
+all the git github commands and how everything works.
