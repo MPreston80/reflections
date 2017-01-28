@@ -7,3 +7,8 @@ in the same area as you are.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Maybe you wouldn't want all those extra files and/or memory used on your computer.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks clone repositories within github.  Clones copy repositories from github to your PC or on your PC.
+branches are edits to your program while still maintaining the original file.
