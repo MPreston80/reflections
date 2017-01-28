@@ -12,3 +12,7 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Forks clone repositories within github.  Clones copy repositories from github to your PC or on your PC.
 branches are edits to your program while still maintaining the original file.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Not sure......
